@@ -1,9 +1,9 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sunglasses.png" width="35" /> Hey, nice to see you!</h1>
 
 <p align="left">
-<a href="https://linkedin.com/in/nor-mohamed-9595a3287" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://open.spotify.com/user/8q058td4ynjeztfx5io86m5pt" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/spotify.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://marketplace.visualstudio.com/publishers/AbhishekMaira" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/visual-studio.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/nor-mohamed-9595a3287" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 <br>
@@ -12,27 +12,32 @@ Hi, I'm **Nour Mohamed**, a developer 👨🏻‍💻 from Egypt. I'm a creative
 
 <br>
 
-<img align="right" alt="Coding GIF" width="350" src="https://cdn.dribbble.com/users/1059534/screenshots/5237088/media/e3f4e3f4d2f6282103f6990e729a7522.gif" />
+<!-- صورة بيكتب كود -->
+<img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/qgQUggAC3PnkOR7odU/giphy.gif" />
 
 - 📫 How to reach me: [nor721424@gmail.com](mailto:nor721424@gmail.com)
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nor72142" alt="Nour Mohamed" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=nor72142&label=Profile%20Views&color=0e75b6&style=flat" alt="Nour Mohamed" /> 
+</p>
 
 <br>
 
 **Languages and Tools:**
 <br>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="Python"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" title="C++"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" title="Java"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="Git"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png" title="GitHub"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" title="SQL"></code>
-<code><img height="20" src="https://img.shields.io/badge/WinForms-Windows%20Forms-blue?style=flat&logo=windows" title="WinForms"></code>
-<code><img height="20" src="https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-orange?style=flat" title="OOP"></code>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="WinForms" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/OOP-Object%20Oriented-orange?style=for-the-badge" alt="OOP" height="35"/>
+</p>
 
 ---
 
@@ -46,17 +51,4 @@ Hi, I'm **Nour Mohamed**, a developer 👨🏻‍💻 from Egypt. I'm a creative
 <hr>
 
 <details>
-<summary>📈 My GitHub Stats</summary>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nor72142&show_icons=true&theme=gotham" alt="nor72142" /> </p>
-
-</details>
-<img align="right" alt="Coding GIF" width="350" src="https://cdn.dribbble.com/users/1059534/screenshots/5237088/media/e3f4e3f4d2f6282103f6990e729a7522.gif" />
-<br>
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-</div>
-### Show some ❤️ by starring some of the repositories!
-</div>
+<summary>📈 My GitHub Stats</summary
