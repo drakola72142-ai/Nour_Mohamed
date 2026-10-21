@@ -51,7 +51,7 @@ Hi, I'm **Nour Mohamed**, a developer 👨🏻‍💻 from Egypt. I'm a creative
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nor72142&show_icons=true&theme=gotham" alt="nor72142" /> </p>
 
 </details>
-
+<img align="right" alt="Coding GIF" width="350" src="https://cdn.dribbble.com/users/1059534/screenshots/5237088/media/e3f4e3f4d2f6282103f6990e729a7522.gif" />
 <br>
 
 <div align="center">
